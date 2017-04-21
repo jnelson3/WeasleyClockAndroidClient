@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weazley Clock Client Test Platform</string>
+    <string name="geofence_not_available">Geofence not available</string>
+    <string name="geofence_too_many_geofences">too many geofences</string>
+    <string name="geofence_too_many_pending_intents">too many pending geofence intents</string>
+    <string name="unknown_geofence_error">unkown geofence error</string>
+    <string name="geofence_transition_invalid_type">invalid geofence transition type %i</string>
+</resources>
